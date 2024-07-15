@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seetD
+- 👋 Hi, I’m MScreative
 - 👀 I’m interested in web development, programming and software engineering 
 - 🌱 I’m currently learning app development 
 - 💞️ I’m looking to collaborate on any coding project
